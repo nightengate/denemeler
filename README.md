@@ -1,0 +1,2 @@
+# denemeler
+basit uygulama denemeleri
